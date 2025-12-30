@@ -1,0 +1,4 @@
+pyjwt>=2.8,<3
+cryptography>=41,<46
+requests>=2.31,<3
+
